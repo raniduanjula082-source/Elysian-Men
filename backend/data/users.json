@@ -1,0 +1,529 @@
+[
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e1"
+        },
+        "email": "john.doe@example.com",
+        "password": "$2a$10$X5wFuCXX8TKqB8h8vN.oqO5p5j5jPJYxZoqZqZ3qZ4qZ5qZ6qZ7qZ",
+        "firstName": "John",
+        "lastName": "Doe",
+        "phone": "+94771234567",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-01T10:00:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-01T10:00:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e2"
+        },
+        "email": "sarah.wilson@example.com",
+        "password": "$2a$10$Y6xGvDYY9ULrC9i9wO.prP6q6k6kQKZyApqApqAp4qAp6qAp7qAp8qA",
+        "firstName": "Sarah",
+        "lastName": "Wilson",
+        "phone": "+94772345678",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-02T11:30:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-02T11:30:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e3"
+        },
+        "email": "michael.brown@example.com",
+        "password": "$2a$10$Z7yHwEZZ0VMsD0j0xP.qsQ7r7l7lRLAzBqrBqrBq5qBr7qBr8qBr9qB",
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "phone": "+94773456789",
+        "roles": [
+            "USER",
+            "ADMIN"
+        ],
+        "createdAt": {
+            "$date": "2024-01-03T09:15:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-05T14:20:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e4"
+        },
+        "email": "emma.davis@example.com",
+        "password": "$2a$10$A8zIxFAA1WNtE1k1yQ.rtR8s8m8mSMBACsrCsrCs6qCs8qCs9qCs0qC",
+        "firstName": "Emma",
+        "lastName": "Davis",
+        "phone": "+94774567890",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-04T13:45:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-04T13:45:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": false
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e5"
+        },
+        "email": "james.miller@example.com",
+        "password": "$2a$10$B9AJyGBB2XOuF2l2zR.suS9t9n9nTNCBDtsDtsDt7qDt9qDt0qDt1qD",
+        "firstName": "James",
+        "lastName": "Miller",
+        "phone": "+94775678901",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-05T08:20:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-05T08:20:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e6"
+        },
+        "email": "olivia.garcia@example.com",
+        "password": "$2a$10$C0BKzHCC3YPvG3m3AS.tvT0u0o0oUODCEutEutEu8qEu0qEu1qEu2qE",
+        "firstName": "Olivia",
+        "lastName": "Garcia",
+        "phone": "+94776789012",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-06T16:30:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-06T16:30:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e7"
+        },
+        "email": "william.martinez@example.com",
+        "password": "$2a$10$D1CLAiDD4ZQwH4n4BT.uwU1v1p1pVPEDFvuFvuFv9qFv1qFv2qFv3qF",
+        "firstName": "William",
+        "lastName": "Martinez",
+        "phone": "+94777890123",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-07T12:00:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-07T12:00:00.000Z"
+        },
+        "isActive": false,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e8"
+        },
+        "email": "sophia.rodriguez@example.com",
+        "password": "$2a$10$E2DMBjEE5ARxI5o5CU.vxV2w2q2qWQFEGwvGwvGw0qGw2qGw3qGw4qG",
+        "firstName": "Sophia",
+        "lastName": "Rodriguez",
+        "phone": "+94778901234",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-08T10:15:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-08T10:15:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": false
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e9"
+        },
+        "email": "benjamin.hernandez@example.com",
+        "password": "$2a$10$F3ENckFF6BSyJ6p6DV.wyW3x3r3rXRGFHxwHxwHx1qHx3qHx4qHx5qH",
+        "firstName": "Benjamin",
+        "lastName": "Hernandez",
+        "phone": "+94779012345",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-09T14:40:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-09T14:40:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0e0"
+        },
+        "email": "ava.lopez@example.com",
+        "password": "$2a$10$G4FOdlGG7CTzK7q7EW.xzX4y4s4sYSHGIyxIyxIy2qIy4qIy5qIy6qI",
+        "firstName": "Ava",
+        "lastName": "Lopez",
+        "phone": "+94770123456",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-10T11:25:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-10T11:25:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f1"
+        },
+        "email": "lucas.gonzalez@example.com",
+        "password": "$2a$10$H5GPemHH8DUAl8r8FX.yAY5z5t5tZTIHJzyJzyJz3qJz5qJz6qJz7qJ",
+        "firstName": "Lucas",
+        "lastName": "Gonzalez",
+        "phone": "+94781234567",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-11T09:50:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-11T09:50:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f2"
+        },
+        "email": "mia.perez@example.com",
+        "password": "$2a$10$I6HQfnII9EVBm9s9GY.zBZ6A6u6uAUJIKAzKAzKA4qKA6qKA7qKA8qK",
+        "firstName": "Mia",
+        "lastName": "Perez",
+        "phone": "+94782345678",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-12T15:10:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-12T15:10:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": false
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f3"
+        },
+        "email": "alexander.moore@example.com",
+        "password": "$2a$10$J7IRgoJJ0FWCn0t0HZ.ACa7B7v7vBVKJLBALBALB5qLB7qLB8qLB9qL",
+        "firstName": "Alexander",
+        "lastName": "Moore",
+        "phone": "+94783456789",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-13T08:35:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-13T08:35:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f4"
+        },
+        "email": "charlotte.taylor@example.com",
+        "password": "$2a$10$K8JShpKK1GXDo1u1Ia.BDb8C8w8wCWLKMCBMCBMC6qMC8qMC9qMC0qM",
+        "firstName": "Charlotte",
+        "lastName": "Taylor",
+        "phone": "+94784567890",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-14T13:20:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-14T13:20:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f5"
+        },
+        "email": "henry.anderson@example.com",
+        "password": "$2a$10$L9KTiqLL2HYEp2v2Jb.CEc9D9x9xDXMLNDCNDCND7qND9qND0qNd1qN",
+        "firstName": "Henry",
+        "lastName": "Anderson",
+        "phone": "+94785678901",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-15T10:45:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-15T10:45:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f6"
+        },
+        "email": "amelia.thomas@example.com",
+        "password": "$2a$10$M0LUjrMM3IZFq3w3Kc.DFd0E0y0yEYNMOEDOEDOE8qOE0qOE1qOE2qO",
+        "firstName": "Amelia",
+        "lastName": "Thomas",
+        "phone": "+94786789012",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-16T16:55:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-16T16:55:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": false
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f7"
+        },
+        "email": "daniel.jackson@example.com",
+        "password": "$2a$10$N1MVksNN4JAGr4x4Ld.EGe1F1z1zFZONPFEPFEPF9qPF1qPF2qPF3qP",
+        "firstName": "Daniel",
+        "lastName": "Jackson",
+        "phone": "+94787890123",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-17T12:30:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-17T12:30:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f8"
+        },
+        "email": "harper.white@example.com",
+        "password": "$2a$10$O2NWltOO5KBHs5y5Me.FHf2G2A2AGaPOQGFQGFQG0qQG2qQG3qQG4qQ",
+        "firstName": "Harper",
+        "lastName": "White",
+        "phone": "+94788901234",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-18T09:00:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-18T09:00:00.000Z"
+        },
+        "isActive": false,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0f9"
+        },
+        "email": "matthew.harris@example.com",
+        "password": "$2a$10$P3OXmuPP6LCIt6z6Nf.GIg3H3B3BHbQPRHGRHGRH1qRH3qRH4qRH5qR",
+        "firstName": "Matthew",
+        "lastName": "Harris",
+        "phone": "+94789012345",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-19T14:15:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-19T14:15:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0fa"
+        },
+        "email": "evelyn.martin@example.com",
+        "password": "$2a$10$Q4PYnvQQ7MDJu7A7Of.HJh4I4C4CIcRQSIHSIHSI2qSI4qSI5qSI6qS",
+        "firstName": "Evelyn",
+        "lastName": "Martin",
+        "phone": "+94790123456",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-20T11:40:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-20T11:40:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0fb"
+        },
+        "email": "jackson.thompson@example.com",
+        "password": "$2a$10$R5QZowRR8NEKv8B8Pg.IKi5J5D5DJdSRTJITJITJ3qTJ5qTJ6qTJ7qT",
+        "firstName": "Jackson",
+        "lastName": "Thompson",
+        "phone": "+94791234567",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-21T08:25:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-21T08:25:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": false
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0fc"
+        },
+        "email": "abigail.garcia@example.com",
+        "password": "$2a$10$S6RApxSS9OFLw9C9Qh.JLj6K6E6EKeTSUKJUKJUK4qUK6qUK7qUK8qU",
+        "firstName": "Abigail",
+        "lastName": "Garcia",
+        "phone": "+94792345678",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-22T15:50:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-22T15:50:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0fd"
+        },
+        "email": "sebastian.martinez@example.com",
+        "password": "$2a$10$T7SBqySS0PGMx0D0Ri.KMk7L7F7FLfUTVLKVLKVL5qVL7qVL8qVL9qV",
+        "firstName": "Sebastian",
+        "lastName": "Martinez",
+        "phone": "+94793456789",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-23T13:05:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-23T13:05:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0fe"
+        },
+        "email": "ella.robinson@example.com",
+        "password": "$2a$10$U8TCrzTT1QHNy1E1Sj.LNl8M8G8GMgVUWMlWMlWM6qWM8qWM9qWm0qW",
+        "firstName": "Ella",
+        "lastName": "Robinson",
+        "phone": "+94794567890",
+        "roles": [
+            "USER"
+        ],
+        "createdAt": {
+            "$date": "2024-01-24T10:30:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-24T10:30:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    },
+    {
+        "_id": {
+            "$oid": "65a1b2c3d4e5f6a7b8c9d0ff"
+        },
+        "email": "admin@elysianmen.com",
+        "password": "$2a$10$V9UDsAUU2RIOz2F2Tk.MOm9N9H9HNhWVXNmXNmXN7qXN9qXn0qXn1qX",
+        "firstName": "Admin",
+        "lastName": "User",
+        "phone": "+94795678901",
+        "roles": [
+            "USER",
+            "ADMIN"
+        ],
+        "createdAt": {
+            "$date": "2024-01-01T00:00:00.000Z"
+        },
+        "updatedAt": {
+            "$date": "2024-01-25T16:00:00.000Z"
+        },
+        "isActive": true,
+        "emailVerified": true
+    }
+]

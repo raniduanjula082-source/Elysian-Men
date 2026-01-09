@@ -1,0 +1,511 @@
+[
+    {
+        "_id": "s1",
+        "name": "Cotton Oxford Blue",
+        "price": 25500.0,
+        "originalPrice": null,
+        "category": "Shirts",
+        "description": "A timeless classic in breathable cotton. Perfect for both office and weekend wear.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/IRE_2918_1270x.jpg?v=1755103469",
+        "colors": [
+            "Light Blue",
+            "White"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "s2",
+        "name": "Linen Vacation Stripe",
+        "price": 18000.0,
+        "originalPrice": 22500.0,
+        "category": "Shirts",
+        "description": "Relaxed fit shirt crafted from high-quality European linen.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/0y2a8022_1170x.jpg?v=1753177606",
+        "colors": [
+            "Stripe Blue",
+            "Beige"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "fit": "Relaxed Fit",
+        "inStock": true,
+        "onSale": true
+    },
+    {
+        "_id": "s3",
+        "name": "Grandad Collar White",
+        "price": 27000.0,
+        "originalPrice": null,
+        "category": "Shirts",
+        "description": "Minimalist band-collar shirt in a crisp cotton poplin.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/IRE_2910_1270x.jpg?v=1755103246",
+        "colors": [
+            "Off-White",
+            "Stone"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "sh1",
+        "name": "Heritage Oxford Walnut",
+        "price": 38500.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Classic wingtip oxford in premium calfskin leather with a hand-burnished finish.",
+        "image": "https://shoes.lk/cdn/shop/files/227.png?v=1766916199&width=360",
+        "colors": [
+            "Walnut"
+        ],
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "sh2",
+        "name": "Artisan Derby Brown",
+        "price": 36000.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Versatile derby shoe featuring a durable rubber sole for all-day comfort.",
+        "image": "https://shoes.lk/cdn/shop/files/67_ebd97e29-a224-4a09-aa63-2f300cca66df.png?v=1765305337&width=360",
+        "colors": [
+            "Dark Brown"
+        ],
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "sh3",
+        "name": "Modern Monk Strap",
+        "price": 41000.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Sleek double monk strap design for a sharp, contemporary professional look.",
+        "image": "https://shoes.lk/cdn/shop/files/65.png?v=1765304642&width=360",
+        "colors": [
+            "Black"
+        ],
+        "sizes": [
+            "8",
+            "9",
+            "10"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "sh4",
+        "name": "Elysian Loafer Tan",
+        "price": 34500.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Refined penny loafer in soft suede, perfect for smart-casual summer styling.",
+        "image": "https://shoes.lk/cdn/shop/files/68_8748425f-b5a8-46d6-91e7-937c34ffdf13.png?v=1765304504&width=360",
+        "colors": [
+            "Tan"
+        ],
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "sh5",
+        "name": "Urban Leather Sneaker",
+        "price": 29500.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Minimalist white leather sneakers that define modern versatility.",
+        "image": "https://shoes.lk/cdn/shop/files/NKM003_3ce82ce7-500f-4d90-8d51-620331aa692c.png?v=1751365889&width=360",
+        "colors": [
+            "White"
+        ],
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "b1",
+        "name": "Heritage Leather Duffle",
+        "price": 42500.0,
+        "originalPrice": null,
+        "category": "Bags",
+        "description": "The ultimate travel companion, crafted from rich, full-grain leather that patinas beautifully over time.",
+        "image": "https://bag.lk/wp-content/uploads/2025/12/10-4.webp",
+        "colors": [
+            "Cognac"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "b2",
+        "name": "Executive Briefcase",
+        "price": 38000.0,
+        "originalPrice": null,
+        "category": "Bags",
+        "description": "Command the boardroom with this structured leather briefcase, featuring dedicated compartments for tech and documents.",
+        "image": "https://bag.lk/wp-content/uploads/2025/12/7612.webp",
+        "colors": [
+            "Black"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "p1",
+        "name": "Signature Pique Polo Navy",
+        "price": 12500.0,
+        "originalPrice": null,
+        "category": "Polos",
+        "description": "A classic pique knit with refined detailing and a perfect slim fit.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/SC__1183_1880x.jpg?v=1739189816",
+        "colors": [
+            "Navy"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "p2",
+        "name": "Essential Polo Charcoal",
+        "price": 12500.0,
+        "originalPrice": null,
+        "category": "Polos",
+        "description": "Versatile charcoal polo made from premium long-staple cotton.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/SC__1167_1880x.jpg?v=1739190074",
+        "colors": [
+            "Charcoal"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fit": "Regular Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "p3",
+        "name": "Luxe Knit Polo Emerald",
+        "price": 14500.0,
+        "originalPrice": null,
+        "category": "Polos",
+        "description": "Sophisticated knit texture for a more formal take on the casual classic.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/IMG_2119-Edit_1270x.jpg?v=1723618426",
+        "colors": [
+            "Emerald"
+        ],
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "d1",
+        "name": "Selvedge Indigo Classic",
+        "price": 32500.0,
+        "originalPrice": null,
+        "category": "Denims",
+        "description": "Raw indigo denim crafted on vintage looms for the purist.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/SC__1257_1880x.jpg?v=1739794641",
+        "colors": [
+            "Raw Indigo"
+        ],
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Regular Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "d2",
+        "name": "Stay Black Tailored",
+        "price": 29500.0,
+        "originalPrice": null,
+        "category": "Denims",
+        "description": "Deep black denim with a tailored silhouette.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/SC__1420_1880x.jpg?v=1738068126",
+        "colors": [
+            "Solid Black"
+        ],
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "acc1",
+        "name": "Artisan Woven Tie",
+        "price": 8500.0,
+        "originalPrice": null,
+        "category": "Accessories",
+        "description": "Exquisite silk tie with a subtle textured weave.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/WhatsAppImage2025-09-09at12.20.53_1880x.jpg?v=1757404256",
+        "colors": [
+            "Deep Blue"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "acc2",
+        "name": "Signature Silk Square",
+        "price": 5500.0,
+        "originalPrice": null,
+        "category": "Accessories",
+        "description": "Hand-rolled edges and a refined geometric print.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/WhatsAppImage2025-09-09at12.20.54_1880x.jpg?v=1757404027",
+        "colors": [
+            "Burgundy"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "acc3",
+        "name": "Modern Knit Tie",
+        "price": 7500.0,
+        "originalPrice": null,
+        "category": "Accessories",
+        "description": "A contemporary take on the necktie, perfect for smart-casual styling.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/WhatsAppImage2025-09-09at12.20.54_1_1880x.jpg?v=1757403274",
+        "colors": [
+            "Emerald"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "c1",
+        "name": "Slim Fit Twill Chinos",
+        "price": 28500.0,
+        "originalPrice": null,
+        "category": "Chinos",
+        "description": "Stretch cotton twill chinos that transition perfectly from desk to dinner.",
+        "image": "https://images.unsplash.com/photo-1624371414361-e6e0ed2bf527?auto=format&fit=crop&q=80&w=800",
+        "colors": [
+            "Khaki",
+            "Olive",
+            "Black"
+        ],
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Slim Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "c2",
+        "name": "Relaxed Tapered Chinos",
+        "price": 21000.0,
+        "originalPrice": 34500.0,
+        "category": "Chinos",
+        "description": "A more casual silhouette for effortless daily wear.",
+        "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&q=80&w=800",
+        "colors": [
+            "Grey",
+            "Dusty Blue"
+        ],
+        "sizes": [
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Relaxed Fit",
+        "inStock": true,
+        "onSale": true
+    },
+    {
+        "_id": "sh6",
+        "name": "Midnight Chelsea Boot",
+        "price": 45000.0,
+        "originalPrice": null,
+        "category": "Shoes",
+        "description": "Architectural Chelsea boots in matte black leather with elastic gussets.",
+        "image": "https://shoes.lk/cdn/shop/files/NKS001_18be14ea-7189-4429-8fa1-8025163a4253.png?v=1751539757&width=360",
+        "colors": [
+            "Black"
+        ],
+        "sizes": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "b3",
+        "name": "Signature Slim Portfolio",
+        "price": 22500.0,
+        "originalPrice": null,
+        "category": "Bags",
+        "description": "A minimalist approach to professional carry, designed for the modern minimalist.",
+        "image": "https://bag.lk/wp-content/uploads/2025/12/7612_4.webp",
+        "colors": [
+            "Ebony"
+        ],
+        "sizes": [
+            "OS"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "p4",
+        "name": "Sky Blue Pique Polo",
+        "price": 12000.0,
+        "originalPrice": null,
+        "category": "Polos",
+        "description": "Breathable and light, ideal for the tropical climate of Colombo.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/IMG_2181-Edit_1270x.jpg?v=1723617603",
+        "colors": [
+            "Sky Blue"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fit": "Regular Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "d3",
+        "name": "Heritage Straight Fit",
+        "price": 31000.0,
+        "originalPrice": null,
+        "category": "Denims",
+        "description": "A classic straight leg in a mid-wash indigo, built for durability and comfort.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/SC__1246_1880x.jpg?v=1739794641",
+        "colors": [
+            "Indigo"
+        ],
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Regular Fit",
+        "inStock": true,
+        "onSale": false
+    },
+    {
+        "_id": "acc4",
+        "name": "Classic Leather Belt",
+        "price": 12500.0,
+        "originalPrice": null,
+        "category": "Accessories",
+        "description": "Full-grain Italian leather with a brushed silver buckle.",
+        "image": "https://stripesandchecksinc.com/cdn/shop/files/WhatsAppImage2025-09-09at12.20.55_1880x.jpg?v=1757403479",
+        "colors": [
+            "Tan"
+        ],
+        "sizes": [
+            "32",
+            "34",
+            "36"
+        ],
+        "fit": "Standard",
+        "inStock": true,
+        "onSale": false
+    }
+]
